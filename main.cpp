@@ -1,5 +1,7 @@
 /********************************************************************************
 * main.cpp: Implementering av ett enkelt neuralt nätverk i C++.
+*           Slutför medlemsfunktionerna för klassen ann så att modellen
+*           predikterar korrekt i enlighet med mönstret beskrivet nedan.
 ********************************************************************************/
 #include "ann.hpp"
 #include <vector>
